@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/gad/static/js/runtime~main.19be2c05.js"
   },
   {
-    "revision": "0feebc048ac810550f4f",
+    "revision": "8bb0be567048000d3bb6",
     "url": "/gad/static/js/main.936fea6e.chunk.js"
   },
   {
@@ -28,11 +28,11 @@ self.__precacheManifest = [
     "url": "/gad/static/js/2.beb7cc94.chunk.js"
   },
   {
-    "revision": "0feebc048ac810550f4f",
-    "url": "/gad/static/css/main.113bbfcd.chunk.css"
+    "revision": "8bb0be567048000d3bb6",
+    "url": "/gad/static/css/main.34bf3428.chunk.css"
   },
   {
-    "revision": "15ad68264afc723c574393279839c0aa",
+    "revision": "6ac3796a38ca202494952c127d401cef",
     "url": "/gad/index.html"
   }
 ];
