@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/gad/static/media/covid-conversation-title.8028f42b.png"
   },
   {
-    "revision": "5f47f1bb274ca2d20d61",
-    "url": "/gad/static/css/main.44784a06.chunk.css"
+    "revision": "853eb5ffa7d626984902",
+    "url": "/gad/static/css/main.4aa39f37.chunk.css"
   },
   {
     "revision": "88c906f1168418ae3e69",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/gad/static/media/great-american-debate-logo.86ba0532.png"
   },
   {
-    "revision": "5f47f1bb274ca2d20d61",
+    "revision": "853eb5ffa7d626984902",
     "url": "/gad/static/js/main.1aaa1d85.chunk.js"
   },
   {
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/gad/static/media/CheddarGothic-Sans.eadb7501.otf"
   },
   {
-    "revision": "526d98bf2fcb34c0a0ac07b84269474d",
+    "revision": "0af67aba512172e0d5ebe288e0de9bed",
     "url": "/gad/index.html"
   }
 ];
