@@ -1,16 +1,19 @@
 {
-  "main.css": "/gad/static/css/main.95f33937.chunk.css",
-  "main.js": "/gad/static/js/main.004de46f.chunk.js",
-  "main.js.map": "/gad/static/js/main.004de46f.chunk.js.map",
+  "main.css": "/gad/static/css/main.44784a06.chunk.css",
+  "main.js": "/gad/static/js/main.1aaa1d85.chunk.js",
+  "main.js.map": "/gad/static/js/main.1aaa1d85.chunk.js.map",
   "runtime~main.js": "/gad/static/js/runtime~main.19be2c05.js",
   "runtime~main.js.map": "/gad/static/js/runtime~main.19be2c05.js.map",
-  "static/js/2.f39570fd.chunk.js": "/gad/static/js/2.f39570fd.chunk.js",
-  "static/js/2.f39570fd.chunk.js.map": "/gad/static/js/2.f39570fd.chunk.js.map",
+  "static/js/2.ecd19318.chunk.js": "/gad/static/js/2.ecd19318.chunk.js",
+  "static/js/2.ecd19318.chunk.js.map": "/gad/static/js/2.ecd19318.chunk.js.map",
   "index.html": "/gad/index.html",
-  "precache-manifest.71130487830ef519765efe96007c11ea.js": "/gad/precache-manifest.71130487830ef519765efe96007c11ea.js",
+  "precache-manifest.e3885f5dcafd544947c549e579305e40.js": "/gad/precache-manifest.e3885f5dcafd544947c549e579305e40.js",
   "service-worker.js": "/gad/service-worker.js",
-  "static/css/main.95f33937.chunk.css.map": "/gad/static/css/main.95f33937.chunk.css.map",
+  "static/css/main.44784a06.chunk.css.map": "/gad/static/css/main.44784a06.chunk.css.map",
   "static/media/index.scss": "/gad/static/media/GlacialIndifference-Regular.13dc531a.otf",
-  "static/media/gad-logo-small-white.png": "/gad/static/media/gad-logo-small-white.86ba0532.png",
-  "static/media/gad-title.png": "/gad/static/media/gad-title.9e8f6898.png"
+  "static/media/CovidConversation.scss": "/gad/static/media/covid-conversation-background.9e7a7f8d.png",
+  "static/media/covid-conversation-logo.png": "/gad/static/media/covid-conversation-logo.ffa5ea70.png",
+  "static/media/covid-conversation-title.png": "/gad/static/media/covid-conversation-title.8028f42b.png",
+  "static/media/great-american-debate-logo.png": "/gad/static/media/great-american-debate-logo.86ba0532.png",
+  "static/media/great-american-debate-title.png": "/gad/static/media/great-american-debate-title.9e8f6898.png"
 }
