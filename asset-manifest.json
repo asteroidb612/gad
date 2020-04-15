@@ -1,5 +1,5 @@
 {
-  "main.css": "/gad/static/css/main.73c68741.chunk.css",
+  "main.css": "/gad/static/css/main.af7e992a.chunk.css",
   "main.js": "/gad/static/js/main.4ec7a16c.chunk.js",
   "main.js.map": "/gad/static/js/main.4ec7a16c.chunk.js.map",
   "runtime~main.js": "/gad/static/js/runtime~main.19be2c05.js",
@@ -7,9 +7,9 @@
   "static/js/2.f919a10c.chunk.js": "/gad/static/js/2.f919a10c.chunk.js",
   "static/js/2.f919a10c.chunk.js.map": "/gad/static/js/2.f919a10c.chunk.js.map",
   "index.html": "/gad/index.html",
-  "precache-manifest.c3767b05e03321b747fdecc0888a95e5.js": "/gad/precache-manifest.c3767b05e03321b747fdecc0888a95e5.js",
+  "precache-manifest.6cf69304861dc83447f174c68a699e4f.js": "/gad/precache-manifest.6cf69304861dc83447f174c68a699e4f.js",
   "service-worker.js": "/gad/service-worker.js",
-  "static/css/main.73c68741.chunk.css.map": "/gad/static/css/main.73c68741.chunk.css.map",
+  "static/css/main.af7e992a.chunk.css.map": "/gad/static/css/main.af7e992a.chunk.css.map",
   "static/media/GreatAmericanDebate.scss": "/gad/static/media/CheddarGothic-Sans.eadb7501.otf",
   "static/media/index.scss": "/gad/static/media/GlacialIndifference-Regular.13dc531a.otf",
   "static/media/CovidConversation.scss": "/gad/static/media/covid-conversation-background.06471253.png",
