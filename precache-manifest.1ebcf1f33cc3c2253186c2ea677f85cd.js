@@ -84,7 +84,7 @@ self.__precacheManifest = [
     "url": "/gad/static/media/GlacialIndifference-Regular.13dc531a.otf"
   },
   {
-    "revision": "fd1f2f1f16556a9aa13cdc019a4e0ce2",
+    "revision": "9e0824e54c24b57af37fbaaed78ca273",
     "url": "/gad/index.html"
   }
 ];
