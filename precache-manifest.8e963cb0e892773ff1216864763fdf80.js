@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/covid-conversation-welcome-bottom.c1b1c1b6.png"
   },
   {
-    "revision": "6e6b4c897573f2db341c",
+    "revision": "03131986324b254c8bdc",
     "url": "/static/css/main.54824a2b.chunk.css"
   },
   {
@@ -44,8 +44,8 @@ self.__precacheManifest = [
     "url": "/static/media/covid-conversation-title.32d56bf5.png"
   },
   {
-    "revision": "6e6b4c897573f2db341c",
-    "url": "/static/js/main.07eec7b5.chunk.js"
+    "revision": "03131986324b254c8bdc",
+    "url": "/static/js/main.a3f7308e.chunk.js"
   },
   {
     "revision": "3609416bf86597e5ab13234efff207d9",
@@ -84,7 +84,7 @@ self.__precacheManifest = [
     "url": "/static/media/GlacialIndifference-Regular.13dc531a.otf"
   },
   {
-    "revision": "a357f7bbee1a1b05bd3cd9cf38857a43",
+    "revision": "0ecf45f1069a43b85b47d97ff2254359",
     "url": "/index.html"
   }
 ];
